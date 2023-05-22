@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\bin\Debug\net7.0\Zadaca3.exe
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\bin\Debug\net7.0\Zadaca3.deps.json
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\bin\Debug\net7.0\Zadaca3.runtimeconfig.json
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\bin\Debug\net7.0\Zadaca3.dll
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\bin\Debug\net7.0\Zadaca3.pdb
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\Zadaca3.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\Zadaca3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\Zadaca3.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\Zadaca3.AssemblyInfo.cs
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\Zadaca3.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\Zadaca3.dll
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\refint\Zadaca3.dll
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\Zadaca3.pdb
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\Zadaca3.genruntimeconfig.cache
+C:\Users\user\Desktop\DZ SEM9\Zadaca3\obj\Debug\net7.0\ref\Zadaca3.dll
